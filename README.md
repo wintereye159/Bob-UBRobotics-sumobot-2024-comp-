@@ -1,0 +1,1 @@
+this repository containes both the code for the robot and the 3dPrinting files. the 3dPrinting files are in the form of .stl and .gcode meaning that you can either upload the gcode directly to your FDM printer or upload the STL files to your own slicer 
